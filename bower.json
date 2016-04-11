@@ -1,0 +1,22 @@
+{
+  "name": "randomQuote",
+  "homepage": "https://github.com/elhaloui/randomQuote",
+  "authors": [
+    "EL HALOUI <elhalouihichamcanvas2012@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
