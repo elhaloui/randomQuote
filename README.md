@@ -1,1 +1,1 @@
-"# randomQuote" 
+# randomQuote
